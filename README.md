@@ -55,10 +55,10 @@ If you want to fine-tune the **Llama-3.2-3B-Instruct** model (similar to this pr
 
 ## 💻Output
 <div style="display: flex; flex-wrap: wrap; justify-content: space-between; ">
-  <img src="https://github.com/user-attachments/assets/42fc670d-18fa-4aec-a157-11d7e7f32905" height="360" alt="starting" style="object-fit: cover;">
-  <img src="https://github.com/user-attachments/assets/3abe0d87-aeb1-4d18-81cf-5da5184796ae" height="360" alt="mobile_phone" style="object-fit: cover;">
-  <img src="https://github.com/user-attachments/assets/65bb1c49-da33-4663-99e9-f348612b05fb" height="360" alt="mobile_phone1" style="object-fit: cover;">
-  <img src="https://github.com/user-attachments/assets/6717143a-829e-47a1-b7d4-dbb3c8e56007" height="360" alt="output" style="object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/42fc670d-18fa-4aec-a157-11d7e7f32905" height="340" alt="starting" style="object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/3abe0d87-aeb1-4d18-81cf-5da5184796ae" height="340" alt="mobile_phone" style="object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/65bb1c49-da33-4663-99e9-f348612b05fb" height="340" alt="mobile_phone1" style="object-fit: cover;">
+  <img src="https://github.com/user-attachments/assets/6717143a-829e-47a1-b7d4-dbb3c8e56007" height="340" alt="output" style="object-fit: cover;">
 </div>
 
 ---
