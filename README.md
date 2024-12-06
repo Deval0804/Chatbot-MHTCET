@@ -46,7 +46,7 @@ If you want to fine-tune the **Llama-3.2-3B-Instruct** model (similar to this pr
 
 ## 📁 Files/Folder in repository
 
-- **models/**: Contains the pre-trained and fine-tuned model files (`adapter_model.safetensors`).
+- **models/**: Contains the fine-tuned model files (`adapter_model.safetensors`).
 - **CET_Assist.ipynb**: Main notebook to deploy and run the chatbot.
 - **Project_Llama_3_2_finetuning.ipynb**: Notebook for fine-tuning the Llama-3.2-3B-Instruct model.
 - **data.json**: data we use for fine-tuning.
