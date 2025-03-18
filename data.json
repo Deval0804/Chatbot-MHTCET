@@ -1,4 +1,8 @@
-[
+[   { 
+    "instruction": "tell the information of pict college ",
+    "input":"tell the information about pict",
+    "output":"pict which is known as pune institute of computer techchnology is one of the top engneering collage in pune with cutoff of 99 percentile in computer engneering"'
+    }
     {
         "instruction": "Computer Engineering at 81 percentile open",
         "input": "In which college I can get Computer Engineering at 81 percentile in open?",
